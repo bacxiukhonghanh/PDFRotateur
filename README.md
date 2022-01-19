@@ -1,6 +1,6 @@
 # PDF Rotateur
 
-Written in C# and taking advantage of *iTextSharp* & *PdfiumViewer*, this tool might help to export a PDF file with pages rotated by 90, 180 or 270 degrees, based on user's choice.
+Written in C# and taking advantage of *iTextSharp* & *PdfiumViewer*, this tool might help to export a PDF file with pages rotated by 0, 90, 180 or 270 degrees, based on user's choice.
 
 The tool used *iTextSharp* to rotate the pages, and *PdfiumViewer* to help its user preview and save the PDF file before and after rotation of the pages.
 
